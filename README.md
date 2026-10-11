@@ -1,42 +1,41 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
+# hey, i'm ryuex. 🕶️
 
-# hey, i'm ryuexz. 🌙
+*just chilling, coding & exploring.*
 
-*just building things, one project at a time.*
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdXR2YTlpYjc1Zmp4c251bG1xeDZwbjZsNTZhcTRoOXBiam83OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif" width="320" alt="Zelda GIF">
 
-`linux` · `android arm64` · `c++` · `game development`
+<br>
 
-</div>
+`linux` · `gaming` · `development` · `open source`
 
----
-
-### about me
-
-- 🐧 Linux enthusiast, always experimenting.
-- 🎮 Interested in native game ports and reverse engineering.
-- 🌙 Building projects, learning and improving along the way.
-
-### selected projects
-
-| project | description |
-| :--- | :--- |
-| [RyuexClient](https://github.com/silasquercloud/RyuexClient) | Experimental Minecraft client |
-| [DinoCrisis-Native-Android](https://github.com/silasquercloud/DinoCrisis-Native-Android) | Experimental native Android port project |
-| [Vanta-X](https://github.com/silasquercloud/Vanta-X) | Android and compatibility experiments |
-
-### currently exploring
-
-`C++` · `ARM64` · `Vulkan` · `Linux` · `Git`
+<br>
 
 ---
 
-<div align="center">
+### 🌙 about me
 
-*code, games & late nights.*
+just a guy who enjoys technology, games and creating things.
 
-[explore my repositories](https://github.com/silasquercloud?tab=repositories)
+🐧 exploring linux  
+🎮 passionate about gaming  
+💻 experimenting with code  
+☕ learning something new every day  
+
+<br>
+
+### ⚡ currently
+
+`coding` · `learning` · `creating`
+
+<br>
+
+---
+
+*stay chill. keep exploring.*
+
+<sub>made with ☕ by ryuex</sub>
 
 </div>
